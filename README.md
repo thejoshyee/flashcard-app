@@ -7,4 +7,4 @@ A flashcard app using the Open Trivia API. This app is to practice using React.
 
 
 ## Live Demo
-https://61fe404b39dfd3e4ba665ecc--tender-lovelace-9dce03.netlify.app/
+<a href="https://61fe404b39dfd3e4ba665ecc--tender-lovelace-9dce03.netlify.app/">Flashcard App</a>
