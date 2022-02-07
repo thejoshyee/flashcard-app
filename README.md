@@ -1,7 +1,7 @@
 ## Flashcard App (React)
 
 ## About
-A flashcard app using the Open Trivia API. This app is to practice using React. 
+A flashcard app using the Open Trivia API. This app is to practice using React from a WebDev Simplified Tutorial. 
 
 ## Preview
 <img src="https://github.com/thejoshyee/flashcard-app/blob/main/flashcard-preview.png" width="75%" />
